@@ -1,0 +1,54 @@
+Mon Jan 22 22:21:47 2018
+Sold: 
+1.2L of Diesel for $3.864
+0 soda(s) for $0
+2 sandwich(es) for $9
+0 snack(s) for $0
+Total amount was $12.864
+
+
+Mon Jan 22 22:21:50 2018
+Sold: 
+3L of Petrol for $13.77
+0 soda(s) for $0
+2 sandwich(es) for $9
+0 snack(s) for $0
+Total amount was $22.77
+
+
+Mon Jan 22 22:21:57 2018
+Sold: 
+8L of LPG for $32.08
+5 soda(s) for $13.75
+2 sandwich(es) for $9
+12 snack(s) for $21
+Total amount was $75.83
+
+
+Mon Jan 22 22:33:07 2018
+Sold: 
+2L of Diesel for $6.44
+3 soda(s) for $8.25
+0 sandwich(es) for $0
+0 snack(s) for $0
+Total amount was $14.69
+
+
+Mon Jan 22 22:33:13 2018
+Sold: 
+3L of Diesel for $9.66
+3 soda(s) for $8.25
+0 sandwich(es) for $0
+0 snack(s) for $0
+Total amount was $17.91
+
+
+Mon Jan 22 22:33:19 2018
+Sold: 
+1L of Petrol for $4.59
+3 soda(s) for $8.25
+0 sandwich(es) for $0
+0 snack(s) for $0
+Total amount was $12.84
+
+
